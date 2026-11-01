@@ -2,7 +2,9 @@
 
 <div align="center">
 
-# 🖼️ GLX Fotos
+# <p align="center">
+  <img src="https://glx-tools.de/wp-content/uploads/2026/08/glx-fotos-logo.png" width="100">
+</p> GLX Fotos
 
 ### Ein Windows-Programm für Fotos, Bilder, Videos, PDFs, Drucken und Scannen
 
