@@ -21,7 +21,9 @@
 
 ## ⬇️ Download
 
-👉 **[GLX Fotos – Releases](../../releases)** – hier findest du verfügbare Setups und Versionshinweise.
+👉 **[GLX Fotos herunterladen (EXE)](https://glx-tools.de/?glxftp_dl=Programme%2FV-Windows-Anwendungen%2FGLX-Fotos%2Fmain%2FGLX%20Fotos.exe)** – lade das vollständige Windows-Setup direkt vom GLX-Tools-Server herunter.
+
+📁 [GLX-Fotos-Downloadordner öffnen](https://glx-tools.de/dateien/Programme/V-Windows-Anwendungen/GLX-Fotos/main/) – alle Dateien im Downloadverzeichnis anzeigen.
 
 ## ✨ Ein Programm statt fünf
 
