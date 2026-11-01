@@ -21,7 +21,9 @@
 
 ## ⬇️ Download
 
-👉 **[GLX Fotos releases](../../releases)** – find the available setup files and release notes here.
+👉 **[Download GLX Fotos (EXE)](https://glx-tools.de/?glxftp_dl=Programme%2FV-Windows-Anwendungen%2FGLX-Fotos%2Fmain%2FGLX%20Fotos.exe)** – download the complete Windows installer directly from the GLX Tools server.
+
+📁 [Browse the GLX Fotos download folder](https://glx-tools.de/dateien/Programme/V-Windows-Anwendungen/GLX-Fotos/main/) – view the files available in the download directory.
 
 ## ✨ One program instead of five
 
