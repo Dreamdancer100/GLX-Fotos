@@ -27,6 +27,42 @@
 
 📁 [GLX-Fotos-Downloadordner öffnen](https://glx-tools.de/dateien/Programme/V-Windows-Anwendungen/GLX-Fotos/main/) – alle Dateien im Downloadverzeichnis anzeigen.
 
+## 📸 Überblick & Screenshots
+
+### 1️⃣ Doppelte Fotos und Videos in beliebigen Ordnern finden
+
+<p align="center"><img src="screenshots/01-search.jpg" alt="Doppelte Fotos und Videos in beliebigen Ordnern finden" width="850"></p>
+
+### 2️⃣ Hintergründe mit KI freistellen
+
+<p align="center"><img src="screenshots/02-cutout.jpg" alt="Hintergründe mit KI freistellen" width="850"></p>
+
+### 3️⃣ Bilder mit KI vergrößern (Design Wald)
+
+<p align="center"><img src="screenshots/03-upscale.jpg" alt="Bilder mit KI vergrößern (Design Wald)" width="850"></p>
+
+### 4️⃣ Bildbearbeitung mit vertrauten Werkzeugen (Design Silbermuschel)
+
+<p align="center"><img src="screenshots/04-editor.jpg" alt="Bildbearbeitung mit vertrauten Werkzeugen (Design Silbermuschel)" width="850"></p>
+
+### 5️⃣ PDFs öffnen, bearbeiten, drucken und scannen
+
+<p align="center"><img src="screenshots/05-pdf.jpg" alt="PDFs öffnen, bearbeiten, drucken und scannen" width="850"></p>
+
+### 6️⃣ Word-Dokumente öffnen und bearbeiten
+
+<p align="center"><img src="screenshots/06-office.jpg" alt="Word-Dokumente öffnen und bearbeiten" width="850"></p>
+
+### 7️⃣ Eingebaute Hilfe mit Suche
+
+<p align="center"><img src="screenshots/07-help.jpg" alt="Eingebaute Hilfe mit Suche" width="850"></p>
+
+### 8️⃣ Einstellungen: Lizenz, Design, Drucker und Scanner
+
+<p align="center"><img src="screenshots/08-settings.jpg" alt="Einstellungen: Lizenz, Design, Drucker und Scanner" width="850"></p>
+
+---
+
 ## ✨ Ein Programm statt fünf
 
 Fotos aufräumen, Bilder umwandeln, Hintergründe entfernen, Bilder mit KI vergrößern und verbessern, Bilder bearbeiten, Videos kürzen, PDFs bearbeiten, drucken und scannen – GLX Fotos vereint diese Aufgaben in einem Windows-Programm.

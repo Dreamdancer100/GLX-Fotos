@@ -27,6 +27,42 @@
 
 📁 [Browse the GLX Fotos download folder](https://glx-tools.de/dateien/Programme/V-Windows-Anwendungen/GLX-Fotos/main/) – view the files available in the download directory.
 
+## 📸 Overview & Screenshots
+
+### 1️⃣ Find duplicate photos and videos in any folder
+
+<p align="center"><img src="screenshots/01-search.jpg" alt="Find duplicate photos and videos in any folder" width="850"></p>
+
+### 2️⃣ Remove backgrounds with AI
+
+<p align="center"><img src="screenshots/02-cutout.jpg" alt="Remove backgrounds with AI" width="850"></p>
+
+### 3️⃣ Upscale images with AI (Forest design)
+
+<p align="center"><img src="screenshots/03-upscale.jpg" alt="Upscale images with AI (Forest design)" width="850"></p>
+
+### 4️⃣ Image editor with familiar tools (Silbermuschel design)
+
+<p align="center"><img src="screenshots/04-editor.jpg" alt="Image editor with familiar tools (Silbermuschel design)" width="850"></p>
+
+### 5️⃣ Open, edit, print and scan PDFs
+
+<p align="center"><img src="screenshots/05-pdf.jpg" alt="Open, edit, print and scan PDFs" width="850"></p>
+
+### 6️⃣ Open and edit Word documents
+
+<p align="center"><img src="screenshots/06-office.jpg" alt="Open and edit Word documents" width="850"></p>
+
+### 7️⃣ Built-in help with search
+
+<p align="center"><img src="screenshots/07-help.jpg" alt="Built-in help with search" width="850"></p>
+
+### 8️⃣ Settings: licence, design, printer and scanner
+
+<p align="center"><img src="screenshots/08-settings.jpg" alt="Settings: licence, design, printer and scanner" width="850"></p>
+
+---
+
 ## ✨ One program instead of five
 
 Photo cleanup, image conversion, background removal, AI enlargement and enhancement, image editing, video trimming, PDF editing, printing and scanning — GLX Fotos brings these everyday tasks together in one Windows application.
